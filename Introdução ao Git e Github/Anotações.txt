@@ -1,0 +1,26 @@
+Comandos Básicos Git:
+
+dir -> lista de pastas dentro da onde a gnt ta no terminal
+
+cd -> navegar para um local específico no sistema
+
+cd .. -> volta um nivel na navegação
+
+cls -> limpa o terminal
+
+mkdir -> cria uma pasta
+
+echo hello > hello.txxt -> cria uma pasta hello q digita dentro dela "hello"
+
+del -> deletar arquivos
+
+rmdir -> deleta repositórios
+
+sha1 -> 40 caracteres que identificam um arquivo. -> comando -> openssl sha1 texto.txt -> mostra os caracteres gerados
+e caso aja alguma alteração no arquivo ele gera outros caracteres.
+
+git init - iniciar o git
+
+git add
+
+git commit
