@@ -14,6 +14,7 @@ Bootcamp oferecido pela Digital Innovation One onde se aprende a programar pági
 - `Curso 1`: Lógica de Programação Essencial
 - `Curso 2`: Introdução ao Git e Github
 - `Curso 3`: Introdução a criação de websites com HTML5 e CSS3
+- `Projeto 1`: Recriando a página inicial do Instagram
 
 ## 📁 Acesso ao Bootcamp
 
